@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "text": "多元冒险!"
+        },
+        "description": {
+            "text": "欢迎来到你的多元冒险",
+            "color": "gray"
+        },
+        "icon": {
+            "item": "minecraft:compass"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/block/soul_sand.png"
+    },
+    "criteria": {
+        "command": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
