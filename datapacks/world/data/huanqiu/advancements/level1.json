@@ -1,0 +1,19 @@
+{
+    "parent": "huanqiu:root",
+    "display": {
+        "title": "让我们开始冒险吧!",
+        "description": "踏入第一关(跑酷)",
+        "icon": {
+            "item": "minecraft:quartz_stairs"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "one": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

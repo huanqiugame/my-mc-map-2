@@ -4,8 +4,7 @@
             "text": "多元冒险!"
         },
         "description": {
-            "text": "欢迎来到你的多元冒险",
-            "color": "gray"
+            "text": "欢迎来到你的多元冒险"
         },
         "icon": {
             "item": "minecraft:compass"
